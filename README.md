@@ -1,3 +1,3 @@
 # RButton
 
-![demo](./output.gif)
+<img src="./output.gif" width="320">
